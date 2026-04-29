@@ -1,0 +1,47 @@
+body{
+    background-image: url(../resource/Lines\ Seamless\ Pattern\,\ Lines\,\ Seamless\,\ Pattern\ PNG\ and\ Vector\ with\ Transparent\ Background\ for\ Free\ Download.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+h1{
+    color: darkgreen;
+}
+
+p{
+    color: blue;
+}
+
+.Div-1{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    background-image: url(../resource/img-1.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center right;
+    
+}
+.Div-2{
+    text-align: center;
+    background-image: url(../resource/img-2.svg);
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+}
+.Div-3{
+    text-align: center;
+    background-image: url(../resource/img-3.svg);
+    height: 200px;
+    width: 200px;
+    background-size: contain;
+    background-position: center top;
+}
+.Div-4{
+    text-align: center;
+    background-image: url(../resource/img-4.svg);
+    height: 200px;
+    width: 200px;
+    background-size: contain;
+}
